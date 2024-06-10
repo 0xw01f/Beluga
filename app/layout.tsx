@@ -21,14 +21,14 @@ export default function RootLayout({ children }: { children: any }) {
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://beluga-delta.vercel.app/" />
         <meta property="og:title" content="Beluga Tracker" />
-        <meta property="og:description" content="Trouvez les prochains attérisages de Beluga à votre aéroport !" />
+        <meta property="og:description" content="Trouvez les prochains attérisages d'un Airbus Beluga à votre aéroport !" />
         <meta property="og:image" content="/og-image.png" />
 
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://beluga-delta.vercel.app/" />
         <meta property="twitter:title" content="Beluga Tracker" />
-        <meta property="twitter:description" content="Trouvez les prochains attérisages de Beluga à votre aéroport !" />
+        <meta property="twitter:description" content="Trouvez les prochains attérisages d'un Airbus Beluga à votre aéroport !" />
         <meta property="twitter:image" content="/og-image.png" />
       </head>
         <body>
