@@ -30,7 +30,7 @@ export function Footer() {
 
         <Flex justify="center" align="center" direction="column">
             <p className={classes.text}>
-            Build with the Flightradar24 API from RapidAPI.
+            Ce service utilise l&apos;API de Flightradar24 depuis RapidAPI.
             </p>
         </Flex>
 
